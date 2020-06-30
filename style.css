@@ -4,6 +4,14 @@
 h1 {
     font-size: 50px;
 }
+p {
+    color: dimgray;
+    text-align: justify;
+    width: 95%;
+}
+h2 {
+    font-size: 40px;
+}
 /* =====TypoGraphy */
 body{
     font-family: 'Poppins', sans-serif;
@@ -26,9 +34,6 @@ section{
 h1 span {
     color: orange;
 }
-p {
-    color: dimgray;
-}
 .anchor-button {
     text-decoration: none;
     background: linear-gradient(45deg, lightsalmon, tomato);
@@ -45,8 +50,12 @@ p {
     background-repeat: no-repeat;
     background-position: right;
 }
-h2 {
-    font-size: 40px;
+.best_web_developer{
+    font-size: 22px;
+}
+.fixed_right{
+    width: 94%;
+    text-align: justify;
 }
 .experience-area {
     background-image: url(images/exp-bg.png);
